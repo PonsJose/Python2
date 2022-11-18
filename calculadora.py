@@ -7,7 +7,6 @@ while elección != 6:
 
     print("""
     Indique la operación a realizar:
-
     1) Suma
     2) Resta
     3) Multiplicación
